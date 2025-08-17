@@ -1,0 +1,1 @@
+package com.example.authautorization.DTOs;import lombok.Data;import lombok.Getter;import lombok.Setter;public record UserPostRequest(String email,                                String password) {}
